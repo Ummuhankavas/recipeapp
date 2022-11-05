@@ -1,4 +1,4 @@
-import RegisterStyle from './Register.style';
+
 
 const Register = () => {
   return (
